@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=AliKaanKaplan)
+![](https://komarev.com/ghpvc/?username=AliKaanKaplan&color=orange&style=flat-square)
 
 ### Hello there 👋 , I'm Ali Kaan Kaplan
 
